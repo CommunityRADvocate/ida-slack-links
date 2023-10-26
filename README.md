@@ -1,2 +1,89 @@
-# ida-slack-links
-Collection of links to resources in cohort Slack channel
+- GitHub
+  - [Git, GitHub, & GitHub Desktop for beginners](https://youtu.be/8Dd7KRpKeaE)
+	- [Getting started with your GitHub account - GitHub Docs](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
+	- [Installing GitHub Desktop - GitHub Docs](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)
+- [How to use Slack: your quick start guide | Slack](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide)
+- Data Visualization resources
+	- [D3 gallery / D3 | Observable](https://observablehq.com/@d3/gallery)
+	- [Business Day > Image >](https://archive.nytimes.com/www.nytimes.com/imagepages/2010/05/02/business/02metrics.html)
+	- [Connected scatterplot / D3 | Observable](https://observablehq.com/@d3/connected-scatterplot/2?intent=fork)
+- Google Sheets resources
+	- [Google Sheets function list - Google Docs Editors Help](https://support.google.com/docs/table/25273?hl=en)
+	- [SUBTOTAL function - Google Docs Editors Help](https://support.google.com/docs/answer/3093649?hl=en)
+	- [Keyboard shortcuts for Google Sheets - Computer - Google Docs Editors Help](https://support.google.com/docs/answer/181110?hl=en&co=GENIE.Platform%3DDesktop)
+- Using VSCode + GitHub + GitHub Desktop together:
+	- {{video https://www.youtube.com/watch?v=GmM-Ga6g_LE&t=12434s}}
+- [Daily Dose of Data Science](https://www.dailydoseofds.com/)
+- [The Recurse Center](https://www.recurse.com/)
+- Free SQL Courses:
+	- [SQL for Data Analysis | Udacity](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+	- [SQLBolt - Learn SQL - Introduction to SQL](https://sqlbolt.com/)
+- [storytelling with data](https://www.storytellingwithdata.com/)
+	- ![Cole Nussbaumer Knaflic - Storytelling with Data_ A Data Visualization Guide for Business Professionals-Wiley 2015.pdf](../assets/Cole_Nussbaumer_Knaflic_-_Storytelling_with_Data_A_Data_Visualization_Guide_for_Business_Professionals-Wiley_2015_1698338030124_0.pdf)
+	- {{video https://www.youtube.com/watch?v=8EMW7io4rSI}}
+- [Correlation Coefficient (r^2)](https://docs.google.com/spreadsheets/d/1Ze1sHWLSq3NF_e8hEe6v8YZmVioLx9qh0SCLhUkUx1A/edit#gid=1808723607)
+- [Spurious Correlations](https://tylervigen.com/spurious-correlations)
+- SQL Intro resources
+	- {{video https://www.youtube.com/watch?v=GEBzsz8ZSXs}}
+	- {{video https://www.youtube.com/watch?v=3BZz8R7mqu0}}
+	- {{video https://www.youtube.com/watch?v=kiDkCzEEMa8}}
+	- [�� SQL Keywords](https://www.evernote.com/shard/s398/sh/71e69cdd-60f9-898d-cc92-5caf5aad2877/vm3oJiQZ4N019Y4Kny3CH50BfDMK8aw87grFLepdfvSqs6Duu2CSJWzcmA)
+	- [⚙️ SQL Syntax](https://www.evernote.com/shard/s398/sh/76cf5ae1-5595-4997-fd4f-2cf5682278ec/TkLoOIFikod9W4zLnOLEMO_rSqaDT9pVPaJ1_mdba42t2ytHb4HNJDTnPw)
+	- ![Alan Beaulieu - Learning SQL_ Generate Manipulate and Retrieve Data-OReilly Media 2020.pdf](../assets/Alan_Beaulieu_-_Learning_SQL_Generate_Manipulate_and_Retrieve_Data-OReilly_Media_2020_1698338679260_0.pdf)
+	- [GitHub - treehouse/cheatsheets](https://github.com/treehouse/cheatsheets)
+	- {{video https://www.youtube.com/watch?v=VKg1Dnz7GN0}}
+	- {{video https://www.youtube.com/watch?v=bKixKfb1J1o}}
+	- [DrawSQL - 🔥 Database schema diagrams](https://drawsql.app/)
+	- {{video https://www.youtube.com/watch?v=ORxMMo7it_Y}}
+	- {{video https://www.youtube.com/watch?v=siiYInWniFs}}
+- Fun and Games
+	- [Codenames – Play with your Friends Online](https://codenames.game/)
+	- [skribbl - Free Multiplayer Drawing & Guessing Game](https://skribbl.io/)
+- [Treehouse | Treehouse Career Toolbox Track](https://teamtreehouse.com/tracks/treehouse-career-toolbox)
+- Python
+	- [f-strings in Python - GeeksforGeeks](https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/)
+	- [Guide to String Formatting in Python Using F-strings | Built In](https://builtin.com/data-science/python-f-string)
+	- [Fixed digits after decimal with F-string - AskPython](https://www.askpython.com/python/built-in-methods/digits-after-decimal-f-string)
+	- [1.3 Keywords](https://www.evernote.com/shard/s398/sh/2a25581f-57c0-8e72-f95b-21acd3355d47/TraldsRiaZh4uUyRNeQD3XxTSVzxVdyb75bY3pbiyd9mRNYGWeZbZPzFxg)
+	- {{video https://www.loom.com/share/0c0e87d3f4964b2897e9c6c739150341?sid=001f89f1-4dc7-488d-9672-d4829023f724}}
+	- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
+	- {{video https://www.loom.com/share/458cfd262bb742ee88e8552c47a40e76?sid=b127073e-0a34-48e2-b76d-e9bb53e2b609}}
+- [online text editor - collabedit](https://collabedit.com/)
+- {{video https://www.youtube.com/watch?v=VznoKyh6AXs}}
+- [Setup Colab to Run Treehouse Modules | colab-th-pd](https://communityradvocate.github.io/colab-th-pd/)
+- {{video https://www.youtube.com/watch?v=WUeBzT43JyY}}
+- Pandas:
+	- [pandas.DataFrame.sort_values — pandas 2.1.1 documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html)
+	- [Merge, join, concatenate and compare — pandas 2.1.1 documentation](https://pandas.pydata.org/docs/user_guide/merging.html)
+	- [Working with missing data — pandas 2.1.1 documentation](https://pandas.pydata.org/docs/user_guide/missing_data.html)
+	- [Handling Duplicated and Missing Data | Treehouse](https://teamtreehouse.com/library/introduction-to-pandas/handling-duplicated-and-missing-data)
+	- [pandas.DataFrame.drop_duplicates — pandas 2.1.1 documentation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.drop_duplicates.html)
+	- [Grouping | Treehouse](https://teamtreehouse.com/library/introduction-to-pandas/grouping)
+	- [pandas.DataFrame.groupby — pandas 2.1.1 documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html)
+	- [Group by: split-apply-combine — pandas 2.1.1 documentation](https://pandas.pydata.org/docs/user_guide/groupby.html)
+- Matplotlib:
+	- [Slack](https://introtogcode.slack.com/archives/C05D13J2YEA/p1696974505859569)
+	- [Plots with different scales — Matplotlib 3.8.0 documentation](https://matplotlib.org/stable/gallery/subplots_axes_and_figures/two_scales.html)
+	- [Educative Answers - Trusted Answers to Developer Questions](https://www.educative.io/answers/what-is-a-subplots-in-matplotlib)
+	- [python - How to center labels in histogram in matplotlib - Stack Overflow](https://stackoverflow.com/questions/66152160/how-to-center-labels-in-histogram-in-matplotlib)
+- Project help threads:
+	- [Slack](https://introtogcode.slack.com/archives/C05D13J2YEA/p1697242930521209)
+	- [Slack](https://introtogcode.slack.com/archives/C05D13J2YEA/p1696695300816489)
+	- [Slack](https://introtogcode.slack.com/archives/C05D13J2YEA/p1697590690742959)
+	-
+- Python data visualization libraries:
+	- [First steps — Bokeh 3.3.0 Documentation](https://docs.bokeh.org/en/latest/docs/first_steps.html#first-steps)
+	- [An introduction to seaborn — seaborn 0.13.0 documentation](https://seaborn.pydata.org/tutorial/introduction.html)
+- Data Portfolios:
+	- {{video https://youtu.be/ocdwh0KYeUs}}
+	- [HTML5 UP! Responsive HTML5 and CSS3 Site Templates](https://html5up.net/)
+	- [GitHub - jef-fortunahamid/Github-and-Markdown-Beginners-Guide](https://github.com/jef-fortunahamid/Github-and-Markdown-Beginners-Guide)
+	- [Taylor D | General Assembly](https://generalassemb.ly/instructors/taylor-d/18008)
+	- [Colab Markdown Guide](https://colab.research.google.com/notebooks/markdown_guide.ipynb)
+- Next Steps resources
+	- [IDA Next Steps: Partners And Others - Google Sheets](https://docs.google.com/spreadsheets/d/1QzmFttICGokMmZz2es8fWImxlbMkmUs8Gcp1bgIXYLk/edit#gid=0)
+	- [Free Tech Programs.xlsx - Google Sheets](https://docs.google.com/spreadsheets/d/1HhVypXigVuAPHjs8Bjltrg6hSbqXVCIx/edit#gid=1000122173)
+	- [The American Dream Academy](https://theamericandreamacademy.org/)
+	- [Careers at ACLU | American Civil Liberties Union](https://www.aclu.org/careers/internships/apply/?job=6954219002&type=internships)
+	- [Online Learning with Coursera | Department of Labor](https://dol.ny.gov/online-learning-coursera)
+	- [Gale and TSLAC Provide Texans Access to More Than 19,000 Free Online Courses for Personalized Learning and Upskilling | About Udemy](https://about.udemy.com/press-releases/gale-and-tslac-provide-texans-access-to-more-than-19000-free-online-courses-for-personalized-learning-and-upskilling/)
