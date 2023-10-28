@@ -87,3 +87,13 @@
 	- [Careers at ACLU | American Civil Liberties Union](https://www.aclu.org/careers/internships/apply/?job=6954219002&type=internships)
 	- [Online Learning with Coursera | Department of Labor](https://dol.ny.gov/online-learning-coursera)
 	- [Gale and TSLAC Provide Texans Access to More Than 19,000 Free Online Courses for Personalized Learning and Upskilling | About Udemy](https://about.udemy.com/press-releases/gale-and-tslac-provide-texans-access-to-more-than-19000-free-online-courses-for-personalized-learning-and-upskilling/)
+- LinkedIn:
+  	Thread: [Slack](https://introtogcode.slack.com/archives/C05D13J2YEA/p1698504636075469)
+  	[Nicole Enos](https://www.linkedin.com/in/nicoleenos/)
+  	[Remy Drain](https://www.linkedin.com/in/remydrain)
+  	[Victoria Nguyen](http://www.linkedin.com/in/vic-nguye)
+  	[Shiyanbade](https://www.linkedin.com/in/shiyanbade/)
+  	[Bea Macabidang](http://www.linkedin.com/in/beamacabidang)
+  	[Ivy Gomes](https://www.linkedin.com/in/ivy-gomes/)
+  	[Faraja Thompson](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
+  	[Roselynn Frempong](https://www.linkedin.com/in/roselynn-frempong-5611b9a8/)
